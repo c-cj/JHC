@@ -22,5 +22,3 @@ def write_text(file_path):
     pass
 
 
-def check():
-    pass
